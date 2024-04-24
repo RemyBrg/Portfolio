@@ -11411,6 +11411,12 @@ p.lead {
   object-fit: cover;
 }
 
+.icon-typescript{
+  background: url('https://api.iconify.design/simple-icons/typescript.svg?color=gray&width=40&height=40') no-repeat center center / contain;
+  content: url('https://api.iconify.design/simple-icons/typescript.svg?color=gray&width=40&height=40');
+}
+
+
 .icon-heroku{
   background: url('https://api.iconify.design/simple-icons/heroku.svg?color=gray&width=40&height=40') no-repeat center center / contain;
   content: url('https://api.iconify.design/simple-icons/heroku.svg?color=gray&width=40&height=40');
@@ -11424,6 +11430,11 @@ p.lead {
 .icon-vscode{
   background: url('https://api.iconify.design/akar-icons/vscode-fill.svg?color=gray&width=40&height=40') no-repeat center center / contain;
   content: url('https://api.iconify.design/akar-icons/vscode-fill.svg?color=gray&width=40&height=40');
+}
+
+.icon-firebase{
+  background: url('https://api.iconify.design/simple-icons/firebase.svg?color=gray&width=40&height=40') no-repeat center center / contain;
+  content: url('https://api.iconify.design/simple-icons/firebase.svg?color=gray&width=40&height=40');
 }
 
 .progress-bar-language{
